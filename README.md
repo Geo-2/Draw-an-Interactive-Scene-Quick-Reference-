@@ -17,7 +17,6 @@ Draw an Interactive Scene.
     
     All variables declared as global __before setup.__
 
-        <!-- If you are going to use global variables.  -->
         One could use objects to organize, in future programs. 
         But don't let objects bog down your efficiency, if objects are taking too long to implement.
     
