@@ -5,9 +5,7 @@ Draw an Interactive Scene.
 ---
 ## Guidelines:
 
-<!-- - Use Adapta Nokeo for viewing this Document Easy syntax highlighter!
-
-- You could also share this guide in canvas, if you exported the markdown preview! -->
+<!-- - Use Adapta Nokeo for viewing this Document Easy syntax highlighter! -->
 
 ### Basic Requirements (Fullfil at least two...):
 - Start by naming your new processing code with FirstLastName followed by interactive scene.
@@ -19,8 +17,9 @@ Draw an Interactive Scene.
     
     All variables declared as global __before setup.__
 
-        If you are going to use global variables. 
-        I don't see you using global variables. You already understand classes etc..
+        <!-- If you are going to use global variables.  -->
+        One could use objects to organize, in future programs. 
+        But don't let objects bog down your efficiency, if objects are taking too long to implement.
     
     Initialization will happen prior to setup or in setup depending on expectations.
 
