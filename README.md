@@ -30,7 +30,7 @@ Draw an Interactive Scene.
 
 - Loops: At least 1 loop (for or while) must be used to create a pattern.
 
-    Don't be lazy, and copy and paste. I know you love those for loops!
+<!--     Don't be lazy, and copy and paste. I know you love those for loops! -->
 
 ### Other requirements that are not so "basic"
 
